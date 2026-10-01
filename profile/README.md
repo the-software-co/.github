@@ -7,3 +7,4 @@ We build and run the software organizations work with: AI-assisted development, 
 **Manifests** — nuestra publicación. *Manifest 01: Toda decisión que se delega en un sistema necesita a alguien que responda por ella.*
 
 Buenos Aires, Argentina.
+<!-- prueba -->
